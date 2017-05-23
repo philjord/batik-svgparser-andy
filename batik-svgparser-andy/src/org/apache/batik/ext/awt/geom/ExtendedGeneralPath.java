@@ -18,14 +18,14 @@
  */
 package org.apache.batik.ext.awt.geom;
 
-import java.awt.Shape;
-import java.awt.Rectangle;
-import java.awt.geom.AffineTransform;
-import java.awt.geom.Arc2D;
-import java.awt.geom.GeneralPath;
-import java.awt.geom.PathIterator;
-import java.awt.geom.Point2D;
-import java.awt.geom.Rectangle2D;
+import javaawt.Shape;
+import javaawt.Rectangle;
+import javaawt.geom.AffineTransform;
+import javaawt.geom.Arc2D;
+import javaawt.geom.GeneralPath;
+import javaawt.geom.PathIterator;
+import javaawt.geom.Point2D;
+import javaawt.geom.Rectangle2D;
 import java.util.Arrays;
 
 /**

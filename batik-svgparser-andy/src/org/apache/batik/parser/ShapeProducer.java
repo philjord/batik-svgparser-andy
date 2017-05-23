@@ -18,7 +18,7 @@
  */
 package org.apache.batik.parser;
 
-import java.awt.Shape;
+import javaawt.Shape;
 
 /**
  * This interface represents objects which creates Shape objects.

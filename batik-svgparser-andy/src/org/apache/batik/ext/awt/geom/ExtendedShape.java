@@ -18,7 +18,7 @@
  */
 package org.apache.batik.ext.awt.geom;
 
-import java.awt.Shape;
+import javaawt.Shape;
 
 /**
  * The <code>ExtendedShape</code> class represents a geometric

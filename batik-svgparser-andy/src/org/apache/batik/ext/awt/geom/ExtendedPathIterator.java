@@ -18,7 +18,7 @@
  */
 package org.apache.batik.ext.awt.geom;
 
-import java.awt.geom.PathIterator;
+import javaawt.geom.PathIterator;
 
 /**
  * The <code>ExtendedPathIterator</code> class represents a geometric

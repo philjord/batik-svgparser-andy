@@ -18,8 +18,8 @@
  */
 package org.apache.batik.parser;
 
-import java.awt.Shape;
-import java.awt.geom.Point2D;
+import javaawt.Shape;
+import javaawt.geom.Point2D;
 import java.io.IOException;
 import java.io.Reader;
 
