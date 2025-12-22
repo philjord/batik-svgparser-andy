@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/pjnz/StudioProjects/renovations3d-android/app/libs/batik-svgparser-andy.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/batik-svgparser-andy/exportforandroid.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/ElderScrollsExplorer/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/batik-svgparser-andy/.classpath"/>
+        <file path="/batik-svgparser-andy/.gitignore"/>
+        <file path="/batik-svgparser-andy/.project"/>
+        <javaElement handleIdentifier="=batik-svgparser-andy/src"/>
+    </selectedElements>
+</jardesc>
